@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umerhussa11n
-- 👀 I’m interested in web front end development...
-- 🌱 I’m currently learning Material UI, NextJs, React Js..
+- 👀 I’m a web front end developer...
+- 🌱 I’m work with Material UI, NextJs, React Js..
 - 💞️ I’m looking to collaborate on any of the frontend projects..
 - 📫 How to reach me, umerhussa11n@gmail.com
 
