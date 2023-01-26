@@ -1,8 +1,8 @@
-This is the Shell B2B CX Engineering team's testing style guide.
+testing guide.
 
 ## Table of Contents
 
-*   [Shell B2B CX Testing Style Guide](#shell-b2b-cx-testing-style-guide)
+*   [testing-guide]
     *   [Basic Rules](#basic-rules)
         1.  [A(A)AA Pattern - Arrange (Assert) Act Assert](#a(a)aa-pattern---arrange-(assert)-act-assert)
         2.  [Create component helper](#create-component-helper)
