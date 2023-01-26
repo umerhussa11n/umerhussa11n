@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umerhussa11n
-- 👀 I’m a Senior Frontend Engineer...
-- 🌱 I work with Material UI, NextJs, React Js, Cypress, Jest, tailwind UI, React Testing Library, Redux and Hooks.
+- 👀 I’m a Tech Lead...
+- 🌱 I work with React Js, Material UI, NextJs, Cypress, Jest, tailwind UI, React Testing Library, Redux and Hooks.
 - 💞️ I’m looking to collaborate on any of the frontend projects..
 - 💞️ I Love web development and web 3.0 is my next big craze.
 - 📫 How to reach me, umerhussa11n@gmail.com
